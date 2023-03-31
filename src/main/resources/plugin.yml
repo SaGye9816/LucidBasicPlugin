@@ -1,0 +1,5 @@
+name: Bgmplayer
+version: '${project.version}'
+main: sagye.bgmplayer.Bgmplayer
+api-version: 1.19
+authors: [ SaGye ]
